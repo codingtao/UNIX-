@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "libio.h": "c",
+        "unistd.h": "c"
+    }
+}
